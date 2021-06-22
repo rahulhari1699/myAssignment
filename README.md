@@ -1,3 +1,2 @@
-# Backeend_Face_App_Application
+# Assignment
 
-This is the project file of face recognition backend software
